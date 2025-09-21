@@ -1,0 +1,400 @@
+*{
+margin: 0
+;padding: 0;
+box-sizing: border-box
+}
+
+/* navbar */
+.navbar{
+height: 60px;
+background-color: #131A22;
+color: white;
+display: flex;
+align-items: center;
+
+
+}
+/* address */
+.address{
+margin-left: 25px;
+font-size: large;
+
+}
+/*  */
+button{
+    background-color: #ff9900;
+    
+}
+
+    
+
+/* search */
+.search {
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.abhay{
+width: 800px;
+height: 40px;
+margin-top: 15px;
+margin-bottom: 15px;
+
+}
+
+
+/* language */
+.language{
+    display: flex;
+    margin-left: 30px;
+    align-items: center
+    ;justify-content: center;
+}
+
+
+/* sign */
+.sign{
+margin-left: 20px;
+
+}
+
+/* orders */
+.orders{
+margin-left: 20px;
+
+}
+/* cart */
+.cart{
+    display: flex
+    ;margin-left: 30px;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+/* hero section */
+.hero-section{
+display: flex;
+text-decoration: none;
+background-color: #232f3e;
+justify-content: space-evenly;
+color: white;
+height: 40px;
+align-items: center;
+}
+
+/* photo */
+ .photo{
+    display: flex;
+    justify-content: space-around;
+    
+
+ }
+   
+
+
+.photo1{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1174598609/photo/set-of-contemporary-house-appliances-isolated-on-white.jpg?s=1024x1024&w=is&k=20&c=XEqdXs1OGprTXhfKcrcOFOfANFwqW-CQePoTwXgjZSI=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+.photo2{ color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1293762741/photo/modern-living-room-interior-3d-render.jpg?s=1024x1024&w=is&k=20&c=KJNOdrG3iN0AKdcQfg65atySC1HLFgbikY2DEAkJDPE=);
+      background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;
+    
+}
+
+.photo3{ color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://images.unsplash.com/photo-1453486030486-0a5ffcd82cd9?q=80&w=663&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+     background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+.photo4{
+     color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1138637768/photo/kitchen-accessories-dishes.jpg?s=1024x1024&w=is&k=20&c=lP_76TasDpYm_G5Ml6gHKivRpGoxPEawXgVNdxGrAuA=);
+      background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+
+
+
+
+/* body */
+body{
+    background-color: #131A22;
+}
+
+.information{
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    padding-top: 370px;
+    background-image: url(https://images.unsplash.com/photo-1664455340023-214c33a9d0bd?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+
+    
+    background-size: contain;
+    
+
+}
+.ajay{
+    background-color: bisque;
+    margin-left: 250px;
+}
+
+/* photoabcd */
+.photoabcd{display: flex;
+    justify-content: space-around;
+    
+
+
+}
+
+.photoa{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1041987488/photo/cute-dog-put-his-face-on-his-knees-to-the-man-and-smiling-from-the-hands-scratching-her-ear.jpg?s=1024x1024&w=is&k=20&c=_JMDP4jElJ36c9Jc6MWHMK_kRbqfHMJzbeFbjF49Lw8=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+     .photob{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/949118068/photo/books.jpg?s=1024x1024&w=is&k=20&c=CDrLRc8X_JrFr-uDbNKrOKrmfIV_M2Af7z1Hb3cYEvY=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+     .photoc{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1688834430/vector/3d-realistic-high-quality-smartphone-mockup-with-isolated-background-smart-phone-mockup.jpg?s=1024x1024&w=is&k=20&c=Wiwp5CxrmTVKMLdYC5lUw7H-cpQ1hIPDZg0g-kJ3_9Y=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+     .photod{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1279108197/photo/variety-of-womens-fashion-comfortable-shoes-of-all-seasons-on-a-light-background-top-view.jpg?s=1024x1024&w=is&k=20&c=I7--KKDMWMPX0yQsaVUTr5S7jBPH9RcM8owFkL6G00E=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+
+     .prashant{
+        display: flex;
+    justify-content: space-around;
+     }
+
+.photoa1{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/973117190/photo/luxury-watches-at-showcase.jpg?s=1024x1024&w=is&k=20&c=O9mBLVRDq4WpKB5DkKsPPj4o1D6R4OU2SqhDHSmLV9c=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+     .photob2{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/639189964/vector/beauty-sketch-background-hand-drawn-doodle-vector-round-illustr.jpg?s=1024x1024&w=is&k=20&c=6rNAgkHkcxPH4HPZgmpXkTVWLUWaSnTU0WC8dw3B074=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+     .photoc3{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1249934620/photo/heroine-syringe-and-pills-on-wooden-background.jpg?s=1024x1024&w=is&k=20&c=XT-iOGY8tdJvaJpSKauYA5pKrvujACMFKfNFhsq3hkQ=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+     .photod4{
+    color: black;
+    height: 300px;
+    width:300px;
+    background-color: aliceblue;
+    margin-left: 20px;
+     margin-top: 20px;
+     padding-left: 90px;
+     background-image: url(https://media.istockphoto.com/id/1194646075/photo/process-of-laying-cozy-beige-carpet-on-floor-3d-illustration.jpg?s=1024x1024&w=is&k=20&c=R8ecE_OYIQDJe7OtpEhJpZxF4BnJFu3amqdN7zr5Asw=);
+ background-size: 250px 250px;
+     background-repeat: no-repeat;
+     background-position: center;}
+
+
+     /* ajjubar */
+     .ajjubar{
+
+        background-color: #232f3e;
+        color: #fff;
+        height:350px;
+        display: flex;
+        margin-top: 15px;
+
+     }
+     .ajju1{
+        list-style-type:none;
+        margin-left: 75px;
+        margin-right: 150px;
+     }
+     
+     .ajju2{
+
+        list-style: none;
+        margin-left: 100px;
+     }
+
+     .ajjubar{
+
+        background-color: #232f3e;
+        color: #fff;
+        height:350px;
+        display: flex;
+        margin-top: 15px;
+
+     }
+     .ajju1{
+        list-style-type:none;
+        margin-left: 75px;
+        margin-right: 150px;
+     }
+     
+     .ajju2{
+
+        list-style: none;
+        margin-left: 100px;
+     }
+
+     .copy{text-align: center;
+        font-size: large;
+        justify-content: center;
+        color: #fff;
+        height: 30px;
+        
+
+
+     }
+
+
+    .right{
+        display: flex;
+        justify-content: center
+        ;align-items: center;
+        height: 40px;
+        background-color:#232f3e;
+        color: aliceblue;
+    }
+
+/* king Ajju Bhai */
+.protein{
+    background-color: aqua;
+    color: red;
+    animation: daan 5s infinite;
+    height:40px;
+    text-align: center;
+    position: static;
+}
+
+
+@keyframes daan {
+    from{
+        width: 100%;
+    }
+    To{
+        width: 1%;
+    }
+}
+/* body tag keyframe */
+@keyframes big {
+    from{
+        width:100vw;
+        height: 100vh;
+    }
+        
+    
+        To{
+            width:1vw;
+            height: 1vh;
+            
+        }
+    }
+
+
+/* body */
+.bod{
+    animation: big 4s 3;
+    background-color: #ff9900;
+    text-align: center;
+    
+}
+
